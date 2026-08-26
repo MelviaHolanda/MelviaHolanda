@@ -2,8 +2,6 @@
 
 📫 Vamos construir algo juntos?
 Tecnologia, criatividade e código para transformar ideias em realidade. 💻✨
-## Gerenciafrom pathlib import Path
-import shutil, zipfile
 
 # 👩‍💻 Melvia
 
