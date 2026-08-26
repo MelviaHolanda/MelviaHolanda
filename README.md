@@ -1,17 +1,9 @@
 # Olá, eu sou Melvia Holanda
 
-
+📫 Vamos construir algo juntos?
+Tecnologia, criatividade e código para transformar ideias em realidade. 💻✨
 ## Gerenciafrom pathlib import Path
 import shutil, zipfile
-
-src = Path("/mnt/data/e6f18347-dad5-4ce6-96f6-c8c104eb0322.png")
-out_dir = Path("/mnt/data/github_perfil_melvia")
-out_dir.mkdir(exist_ok=True)
-
-# Copia a foto para ficar pronta para uso no README do GitHub
-
-
-<img src="./melvia.png" width="180" alt="Foto de perfil de Melvia">
 
 # 👩‍💻 Melvia
 
